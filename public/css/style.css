@@ -1,0 +1,45 @@
+body{
+    background-color: whitesmoke;
+}
+.signinpage{
+    text-align: center;
+    /* float: center; */
+    height: 300px !important;
+    padding-top: 170px;
+}
+.video{
+    float: left;
+}
+.user{
+    width: 250px;
+    height: 30px;
+    border-style: outset;
+}
+.videoplay{
+    object-fit: cover;
+}
+.play{
+    width: 100% !important;
+    height: 775px !important;
+}
+.upper{
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    margin-bottom: -1px;
+}
+.middle{
+    border-radius: 0;
+}
+.bottom{
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    margin-top: -1px;
+
+}
+#button{
+    height: 30px;
+    width: 150px;
+    background-color: #45A6FD;
+    color: white;
+    margin-top: 20px;
+}
